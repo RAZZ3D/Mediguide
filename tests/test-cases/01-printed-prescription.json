@@ -1,0 +1,53 @@
+{
+    "test_name": "Printed Prescription - Amlodipine + Metformin",
+    "description": "Clean printed prescription with two common medications",
+    "input": {
+        "text": "Dr. Sharma's Clinic\n\nRx:\n\nTab Amlodipine 5mg\n1-0-0 x 30 days\nBefore breakfast\n\nTab Metformin 500mg\n1-0-1 x 30 days\nAfter meals\n\nDr. Rajesh Sharma\nMBBS, MD"
+    },
+    "expected_output": {
+        "medications": [
+            {
+                "name": "Amlodipine",
+                "strength": "5mg",
+                "form": "Tablet",
+                "frequency": "OD",
+                "frequency_normalized": "Once daily",
+                "timing_buckets": {
+                    "morning": 1
+                },
+                "duration": "30 days",
+                "food_instruction": "Before breakfast",
+                "name_confidence": ">0.85",
+                "strength_confidence": ">0.85",
+                "frequency_confidence": ">0.85",
+                "needs_confirmation": false
+            },
+            {
+                "name": "Metformin",
+                "strength": "500mg",
+                "form": "Tablet",
+                "frequency": "BD",
+                "frequency_normalized": "Twice daily",
+                "timing_buckets": {
+                    "morning": 1,
+                    "evening": 1
+                },
+                "duration": "30 days",
+                "food_instruction": "After meals",
+                "name_confidence": ">0.85",
+                "strength_confidence": ">0.85",
+                "frequency_confidence": ">0.85",
+                "needs_confirmation": false
+            }
+        ],
+        "overall_confidence": ">0.85",
+        "needs_confirmation": false,
+        "clarification_questions": []
+    },
+    "expected_interactions": [],
+    "expected_nudges": [
+        "Before breakfast, take your Amlodipine 5mg",
+        "After breakfast, take your Metformin 500mg",
+        "After dinner, take your Metformin 500mg"
+    ]
+}

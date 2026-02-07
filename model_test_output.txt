@@ -1,0 +1,9 @@
+﻿Using API Key: AIzaSyAf59...
+
+Testing model: gemini-1.5-flash
+
+Testing model: gemini-1.5-flash-latest
+
+Testing model: gemini-pro
+
+Testing model: gemini-1.5-pro

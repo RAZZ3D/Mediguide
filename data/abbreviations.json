@@ -1,0 +1,211 @@
+{
+    "frequency": {
+        "OD": {
+            "full": "Once daily",
+            "times_per_day": 1
+        },
+        "BD": {
+            "full": "Twice daily",
+            "times_per_day": 2
+        },
+        "TDS": {
+            "full": "Three times daily",
+            "times_per_day": 3
+        },
+        "QDS": {
+            "full": "Four times daily",
+            "times_per_day": 4
+        },
+        "QID": {
+            "full": "Four times daily",
+            "times_per_day": 4
+        },
+        "PRN": {
+            "full": "As needed",
+            "times_per_day": null
+        },
+        "STAT": {
+            "full": "Immediately",
+            "times_per_day": null
+        },
+        "HS": {
+            "full": "At bedtime",
+            "times_per_day": 1
+        },
+        "Q4H": {
+            "full": "Every 4 hours",
+            "times_per_day": 6
+        },
+        "Q6H": {
+            "full": "Every 6 hours",
+            "times_per_day": 4
+        },
+        "Q8H": {
+            "full": "Every 8 hours",
+            "times_per_day": 3
+        },
+        "Q12H": {
+            "full": "Every 12 hours",
+            "times_per_day": 2
+        },
+        "QW": {
+            "full": "Once weekly",
+            "times_per_day": null
+        },
+        "BIW": {
+            "full": "Twice weekly",
+            "times_per_day": null
+        },
+        "QM": {
+            "full": "Once monthly",
+            "times_per_day": null
+        }
+    },
+    "timing": {
+        "AC": {
+            "full": "Before meals",
+            "relation": "before_food"
+        },
+        "PC": {
+            "full": "After meals",
+            "relation": "after_food"
+        },
+        "AM": {
+            "full": "Morning",
+            "time": "morning"
+        },
+        "PM": {
+            "full": "Evening",
+            "time": "evening"
+        },
+        "HS": {
+            "full": "At bedtime",
+            "time": "night"
+        },
+        "NOON": {
+            "full": "At noon",
+            "time": "afternoon"
+        }
+    },
+    "route": {
+        "PO": {
+            "full": "By mouth",
+            "route": "oral"
+        },
+        "SC": {
+            "full": "Subcutaneous",
+            "route": "injection"
+        },
+        "IM": {
+            "full": "Intramuscular",
+            "route": "injection"
+        },
+        "IV": {
+            "full": "Intravenous",
+            "route": "injection"
+        },
+        "SL": {
+            "full": "Sublingual",
+            "route": "oral"
+        },
+        "PR": {
+            "full": "Per rectum",
+            "route": "rectal"
+        },
+        "PV": {
+            "full": "Per vagina",
+            "route": "vaginal"
+        },
+        "TOP": {
+            "full": "Topical",
+            "route": "topical"
+        },
+        "INH": {
+            "full": "Inhalation",
+            "route": "inhalation"
+        }
+    },
+    "form": {
+        "Tab": "Tablet",
+        "Cap": "Capsule",
+        "Syr": "Syrup",
+        "Susp": "Suspension",
+        "Inj": "Injection",
+        "Oint": "Ointment",
+        "Cr": "Cream",
+        "Gel": "Gel",
+        "Drops": "Drops",
+        "Inh": "Inhaler",
+        "Patch": "Patch",
+        "Powder": "Powder",
+        "Loz": "Lozenge",
+        "Spray": "Spray"
+    },
+    "units": {
+        "mg": "milligrams",
+        "mcg": "micrograms",
+        "g": "grams",
+        "ml": "milliliters",
+        "IU": "International Units",
+        "units": "units",
+        "puffs": "puffs",
+        "drops": "drops"
+    },
+    "instructions": {
+        "with meals": "Take with food",
+        "empty stomach": "Take on empty stomach (1 hour before or 2 hours after food)",
+        "with water": "Take with a full glass of water",
+        "do not crush": "Swallow whole, do not crush or chew",
+        "shake well": "Shake bottle well before use",
+        "avoid alcohol": "Do not consume alcohol while taking this medication",
+        "avoid dairy": "Do not take with milk or dairy products",
+        "avoid antacids": "Take at least 2 hours apart from antacids"
+    },
+    "dose_patterns": {
+        "1-0-0": {
+            "morning": 1,
+            "afternoon": 0,
+            "evening": 0
+        },
+        "0-1-0": {
+            "morning": 0,
+            "afternoon": 1,
+            "evening": 0
+        },
+        "0-0-1": {
+            "morning": 0,
+            "afternoon": 0,
+            "evening": 1
+        },
+        "1-0-1": {
+            "morning": 1,
+            "afternoon": 0,
+            "evening": 1
+        },
+        "1-1-1": {
+            "morning": 1,
+            "afternoon": 1,
+            "evening": 1
+        },
+        "2-0-0": {
+            "morning": 2,
+            "afternoon": 0,
+            "evening": 0
+        },
+        "0-0-2": {
+            "morning": 0,
+            "afternoon": 0,
+            "evening": 2
+        },
+        "1-1-0": {
+            "morning": 1,
+            "afternoon": 1,
+            "evening": 0
+        },
+        "0-1-1": {
+            "morning": 0,
+            "afternoon": 1,
+            "evening": 1
+        }
+    }
+}

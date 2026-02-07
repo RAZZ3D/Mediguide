@@ -1,0 +1,13 @@
+﻿Using API Key: AIzaSyDyte...
+
+Testing model: gemini-1.5-flash
+
+Testing model: gemini-1.5-flash-8b
+
+Testing model: gemini-1.5-pro
+
+Testing model: gemini-pro
+
+Testing model: gemini-1.0-pro
+
+Testing model: gemini-2.0-flash-exp

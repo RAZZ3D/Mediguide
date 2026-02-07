@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "category": "timing",
+        "nudge": "Set a daily alarm on your phone for medication time to build a consistent routine.",
+        "rationale": "Consistent timing helps maintain steady medication levels and builds habit formation."
+    },
+    {
+        "id": 2,
+        "category": "timing",
+        "nudge": "Link your medication to a daily activity (e.g., brushing teeth, morning coffee) to remember it.",
+        "rationale": "Habit stacking makes it easier to remember medications by associating them with existing routines."
+    },
+    {
+        "id": 3,
+        "category": "organization",
+        "nudge": "Use a pill organizer to prepare your week's medications in advance.",
+        "rationale": "Visual confirmation helps you see if you've taken today's dose and reduces decision fatigue."
+    },
+    {
+        "id": 4,
+        "category": "organization",
+        "nudge": "Keep your medications in a visible spot where you'll see them during your routine.",
+        "rationale": "Environmental cues significantly improve medication adherence."
+    },
+    {
+        "id": 5,
+        "category": "understanding",
+        "nudge": "Write down why each medication is important to you personally.",
+        "rationale": "Understanding the personal benefit increases motivation to adhere to the regimen."
+    },
+    {
+        "id": 6,
+        "category": "tracking",
+        "nudge": "Mark off each dose on a calendar or use a medication tracking app.",
+        "rationale": "Visual tracking provides positive reinforcement and helps identify missed doses quickly."
+    },
+    {
+        "id": 7,
+        "category": "support",
+        "nudge": "Ask a family member or friend to check in with you about your medications.",
+        "rationale": "Social accountability significantly improves adherence rates."
+    },
+    {
+        "id": 8,
+        "category": "planning",
+        "nudge": "Set a reminder to refill prescriptions 3-5 days before you run out.",
+        "rationale": "Preventing gaps in medication supply is crucial for maintaining adherence."
+    },
+    {
+        "id": 9,
+        "category": "simplification",
+        "nudge": "Ask your pharmacist if any medications can be combined or taken at the same time.",
+        "rationale": "Simplifying the regimen reduces complexity and improves adherence."
+    },
+    {
+        "id": 10,
+        "category": "motivation",
+        "nudge": "Celebrate small wins - track your adherence and reward yourself for consistent weeks.",
+        "rationale": "Positive reinforcement strengthens medication-taking behavior."
+    },
+    {
+        "id": 11,
+        "category": "side_effects",
+        "nudge": "If you experience side effects, contact your doctor rather than stopping the medication.",
+        "rationale": "Many side effects can be managed, and stopping abruptly may be harmful."
+    },
+    {
+        "id": 12,
+        "category": "education",
+        "nudge": "Ask your pharmacist to explain what each medication does in simple terms.",
+        "rationale": "Understanding medication purpose increases perceived value and adherence."
+    },
+    {
+        "id": 13,
+        "category": "travel",
+        "nudge": "When traveling, carry medications in your carry-on bag with a copy of your prescription.",
+        "rationale": "Ensuring medication access during travel prevents missed doses."
+    },
+    {
+        "id": 14,
+        "category": "routine",
+        "nudge": "Take medications at the same location each day to build a strong spatial cue.",
+        "rationale": "Location-based habits are powerful triggers for consistent behavior."
+    },
+    {
+        "id": 15,
+        "category": "technology",
+        "nudge": "Use a medication reminder app that sends notifications and tracks your adherence.",
+        "rationale": "Technology can provide timely reminders and visual progress tracking."
+    },
+    {
+        "id": 16,
+        "category": "communication",
+        "nudge": "Keep a list of all your medications and share it with all your healthcare providers.",
+        "rationale": "Coordinated care helps prevent interactions and ensures everyone is informed."
+    },
+    {
+        "id": 17,
+        "category": "cost",
+        "nudge": "If cost is a concern, ask your doctor or pharmacist about generic alternatives.",
+        "rationale": "Financial barriers are a major cause of non-adherence and can often be addressed."
+    },
+    {
+        "id": 18,
+        "category": "missed_dose",
+        "nudge": "If you miss a dose, take it as soon as you remember unless it's almost time for the next dose.",
+        "rationale": "Having a clear plan for missed doses reduces anxiety and improves overall adherence."
+    },
+    {
+        "id": 19,
+        "category": "review",
+        "nudge": "Review your medication list with your doctor at every visit to ensure it's still needed.",
+        "rationale": "Regular reviews can simplify regimens and remove unnecessary medications."
+    },
+    {
+        "id": 20,
+        "category": "emergency",
+        "nudge": "Keep a small emergency supply of critical medications in your car or workplace.",
+        "rationale": "Backup supplies prevent missed doses due to unexpected circumstances."
+    }
+]

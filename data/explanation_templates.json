@@ -1,0 +1,42 @@
+{
+    "what_when_why": {
+        "template": "**What:** {drug_name} {strength} {form}\n**When:** {timing_explanation}\n**Why this timing:** {timing_rationale}",
+        "timing_rationales": {
+            "morning_empty_stomach": "Taking on an empty stomach ensures maximum absorption and effectiveness.",
+            "with_meals": "Taking with food reduces stomach irritation and improves tolerance.",
+            "after_meals": "Taking after food protects your stomach lining and prevents nausea.",
+            "bedtime": "Taking at bedtime helps maintain steady levels overnight and may reduce daytime side effects.",
+            "before_meals": "Taking before meals allows the medication to work when you need it most.",
+            "consistent_time": "Taking at the same time each day maintains steady medication levels in your body.",
+            "spread_doses": "Spacing doses evenly throughout the day maintains consistent therapeutic levels.",
+            "as_needed": "Take only when you experience symptoms, as directed."
+        }
+    },
+    "frequency_explanations": {
+        "OD": "Take once daily at the same time each day",
+        "BD": "Take twice daily, approximately 12 hours apart (e.g., 8 AM and 8 PM)",
+        "TDS": "Take three times daily, approximately 8 hours apart (e.g., 8 AM, 4 PM, midnight)",
+        "QDS": "Take four times daily, approximately 6 hours apart",
+        "PRN": "Take only when needed for symptoms",
+        "HS": "Take at bedtime before sleeping",
+        "weekly": "Take once per week on the same day",
+        "1-0-0": "Take 1 dose in the morning",
+        "0-0-1": "Take 1 dose in the evening",
+        "1-0-1": "Take 1 dose in the morning and 1 dose in the evening",
+        "1-1-1": "Take 1 dose in the morning, afternoon, and evening"
+    },
+    "food_instructions": {
+        "AC": "Take 30 minutes before meals",
+        "PC": "Take immediately after meals or with food",
+        "with_meals": "Take during or immediately after eating",
+        "empty_stomach": "Take 1 hour before or 2 hours after food",
+        "with_water": "Take with a full glass of water",
+        "avoid_dairy": "Do not take with milk or dairy products; wait at least 2 hours"
+    },
+    "duration_explanations": {
+        "short_course": "Complete the full course even if you feel better to prevent resistance or recurrence.",
+        "long_term": "This is a long-term medication. Continue taking as prescribed and discuss any concerns with your doctor.",
+        "chronic": "This medication manages a chronic condition. Do not stop without consulting your doctor.",
+        "as_needed": "Use only when symptoms occur, following the maximum daily dose limits."
+    }
+}

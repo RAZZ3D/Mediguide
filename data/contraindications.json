@@ -1,0 +1,341 @@
+{
+    "drug_interactions": [
+        {
+            "drug": "Warfarin",
+            "interactions": [
+                "Aspirin",
+                "NSAIDs",
+                "Antibiotics"
+            ],
+            "warning": "May interact with blood thinners and pain relievers. Consider confirming with your pharmacist about potential bleeding risk."
+        },
+        {
+            "drug": "Metformin",
+            "interactions": [
+                "Alcohol",
+                "Contrast dye"
+            ],
+            "warning": "May cause lactic acidosis when combined with alcohol or certain medical procedures. Consider discussing with your doctor before imaging tests."
+        },
+        {
+            "drug": "Aspirin",
+            "interactions": [
+                "Warfarin",
+                "Clopidogrel",
+                "NSAIDs"
+            ],
+            "warning": "May increase bleeding risk when combined with other blood thinners. Consider confirming with your pharmacist."
+        },
+        {
+            "drug": "Levothyroxine",
+            "interactions": [
+                "Calcium",
+                "Iron",
+                "Antacids"
+            ],
+            "warning": "May have reduced absorption when taken with calcium, iron, or antacids. Consider spacing doses at least 4 hours apart."
+        },
+        {
+            "drug": "Ciprofloxacin",
+            "interactions": [
+                "Antacids",
+                "Dairy products",
+                "Calcium"
+            ],
+            "warning": "May have reduced effectiveness with dairy or antacids. Consider taking 2 hours before or 6 hours after these products."
+        },
+        {
+            "drug": "Amlodipine",
+            "interactions": [
+                "Grapefruit juice",
+                "Simvastatin"
+            ],
+            "warning": "May have increased levels with grapefruit juice. Consider avoiding grapefruit products."
+        },
+        {
+            "drug": "Sertraline",
+            "interactions": [
+                "MAO inhibitors",
+                "NSAIDs",
+                "Aspirin"
+            ],
+            "warning": "May interact with other antidepressants and blood thinners. Consider confirming with your doctor about all medications you're taking."
+        },
+        {
+            "drug": "Omeprazole",
+            "interactions": [
+                "Clopidogrel",
+                "Warfarin"
+            ],
+            "warning": "May reduce effectiveness of certain heart medications. Consider discussing alternatives with your pharmacist."
+        },
+        {
+            "drug": "Atorvastatin",
+            "interactions": [
+                "Grapefruit juice",
+                "Gemfibrozil",
+                "Clarithromycin"
+            ],
+            "warning": "May have increased muscle pain risk with certain antibiotics or grapefruit. Consider avoiding grapefruit products."
+        },
+        {
+            "drug": "Amoxicillin",
+            "interactions": [
+                "Oral contraceptives",
+                "Methotrexate"
+            ],
+            "warning": "May reduce effectiveness of birth control pills. Consider using additional contraception during treatment."
+        },
+        {
+            "drug": "Prednisolone",
+            "interactions": [
+                "NSAIDs",
+                "Warfarin",
+                "Vaccines"
+            ],
+            "warning": "May increase stomach ulcer risk with pain relievers. Consider taking with food and discussing with your doctor."
+        },
+        {
+            "drug": "Furosemide",
+            "interactions": [
+                "NSAIDs",
+                "Lithium",
+                "Digoxin"
+            ],
+            "warning": "May cause electrolyte imbalances. Consider monitoring potassium levels and staying hydrated."
+        },
+        {
+            "drug": "Gabapentin",
+            "interactions": [
+                "Antacids",
+                "Morphine"
+            ],
+            "warning": "May have reduced absorption with antacids. Consider spacing doses at least 2 hours apart."
+        },
+        {
+            "drug": "Alprazolam",
+            "interactions": [
+                "Alcohol",
+                "Opioids",
+                "Other sedatives"
+            ],
+            "warning": "May cause severe drowsiness with alcohol or other sedatives. Consider avoiding alcohol completely."
+        },
+        {
+            "drug": "Clopidogrel",
+            "interactions": [
+                "Omeprazole",
+                "Aspirin",
+                "NSAIDs"
+            ],
+            "warning": "May have altered effectiveness with certain stomach medications. Consider confirming with your pharmacist."
+        },
+        {
+            "drug": "Losartan",
+            "interactions": [
+                "Potassium supplements",
+                "NSAIDs"
+            ],
+            "warning": "May cause high potassium levels. Consider avoiding potassium supplements unless directed by your doctor."
+        },
+        {
+            "drug": "Doxycycline",
+            "interactions": [
+                "Dairy products",
+                "Antacids",
+                "Iron"
+            ],
+            "warning": "May have reduced absorption with dairy or minerals. Consider taking 2 hours before or after these products."
+        },
+        {
+            "drug": "Ibuprofen",
+            "interactions": [
+                "Aspirin",
+                "Warfarin",
+                "Blood pressure medications"
+            ],
+            "warning": "May increase bleeding risk and reduce blood pressure control. Consider using the lowest effective dose for the shortest time."
+        },
+        {
+            "drug": "Metoprolol",
+            "interactions": [
+                "Verapamil",
+                "Diltiazem",
+                "Clonidine"
+            ],
+            "warning": "May cause very slow heart rate with certain heart medications. Consider monitoring your pulse regularly."
+        },
+        {
+            "drug": "Alendronate",
+            "interactions": [
+                "Calcium",
+                "Antacids",
+                "NSAIDs"
+            ],
+            "warning": "May cause esophageal irritation. Consider taking with full glass of water and staying upright for 30 minutes."
+        },
+        {
+            "drug": "Azithromycin",
+            "interactions": [
+                "Warfarin",
+                "Digoxin"
+            ],
+            "warning": "May interact with heart medications. Consider confirming with your pharmacist about monitoring needs."
+        },
+        {
+            "drug": "Pantoprazole",
+            "interactions": [
+                "Clopidogrel",
+                "Warfarin",
+                "Methotrexate"
+            ],
+            "warning": "May reduce effectiveness of certain heart medications. Consider discussing alternatives with your doctor."
+        },
+        {
+            "drug": "Rosuvastatin",
+            "interactions": [
+                "Gemfibrozil",
+                "Cyclosporine",
+                "Warfarin"
+            ],
+            "warning": "May have increased muscle pain risk with certain medications. Consider reporting any unexplained muscle pain to your doctor."
+        },
+        {
+            "drug": "Spironolactone",
+            "interactions": [
+                "Potassium supplements",
+                "ACE inhibitors",
+                "NSAIDs"
+            ],
+            "warning": "May cause high potassium levels. Consider avoiding potassium-rich salt substitutes and supplements."
+        },
+        {
+            "drug": "Amitriptyline",
+            "interactions": [
+                "MAO inhibitors",
+                "Alcohol",
+                "Anticholinergics"
+            ],
+            "warning": "May cause severe drowsiness and dry mouth. Consider avoiding alcohol and using caution when driving."
+        },
+        {
+            "drug": "Montelukast",
+            "interactions": [
+                "Phenobarbital",
+                "Rifampin"
+            ],
+            "warning": "May have reduced effectiveness with certain medications. Consider taking consistently at the same time each day."
+        },
+        {
+            "drug": "Domperidone",
+            "interactions": [
+                "Ketoconazole",
+                "Erythromycin",
+                "Medications affecting heart rhythm"
+            ],
+            "warning": "May affect heart rhythm in some people. Consider reporting any palpitations or dizziness to your doctor."
+        },
+        {
+            "drug": "Cetirizine",
+            "interactions": [
+                "Alcohol",
+                "Other sedatives"
+            ],
+            "warning": "May cause drowsiness. Consider avoiding alcohol and using caution when driving."
+        },
+        {
+            "drug": "Glimepiride",
+            "interactions": [
+                "Beta-blockers",
+                "Alcohol",
+                "NSAIDs"
+            ],
+            "warning": "May cause low blood sugar. Consider monitoring blood sugar regularly and carrying glucose tablets."
+        },
+        {
+            "drug": "Fenofibrate",
+            "interactions": [
+                "Statins",
+                "Warfarin"
+            ],
+            "warning": "May increase muscle pain risk with cholesterol medications. Consider reporting any muscle pain or weakness to your doctor."
+        }
+    ],
+    "conditions": [
+        {
+            "condition": "Pregnancy",
+            "high_risk_drugs": [
+                "Warfarin",
+                "ACE inhibitors",
+                "Statins",
+                "Methotrexate"
+            ],
+            "warning": "Some medications may not be safe during pregnancy. If you are pregnant or planning pregnancy, please confirm with your doctor."
+        },
+        {
+            "condition": "Kidney disease",
+            "caution_drugs": [
+                "Metformin",
+                "NSAIDs",
+                "Gabapentin",
+                "Antibiotics"
+            ],
+            "warning": "Some medications may need dose adjustment with kidney problems. Consider discussing kidney function monitoring with your doctor."
+        },
+        {
+            "condition": "Liver disease",
+            "caution_drugs": [
+                "Statins",
+                "Paracetamol",
+                "Methotrexate"
+            ],
+            "warning": "Some medications may need dose adjustment with liver problems. Consider discussing liver function monitoring with your doctor."
+        },
+        {
+            "condition": "Asthma",
+            "avoid_drugs": [
+                "Beta-blockers",
+                "Aspirin",
+                "NSAIDs"
+            ],
+            "warning": "Some medications may worsen breathing problems. Consider confirming with your doctor if you have asthma."
+        },
+        {
+            "condition": "Diabetes",
+            "monitor_drugs": [
+                "Steroids",
+                "Beta-blockers",
+                "Thiazide diuretics"
+            ],
+            "warning": "Some medications may affect blood sugar control. Consider monitoring blood sugar more frequently."
+        }
+    ],
+    "allergies": [
+        {
+            "allergy": "Penicillin",
+            "avoid_drugs": [
+                "Amoxicillin",
+                "Ampicillin",
+                "Penicillin"
+            ],
+            "warning": "If you have a penicillin allergy, please confirm with your pharmacist before taking this medication."
+        },
+        {
+            "allergy": "Sulfa drugs",
+            "avoid_drugs": [
+                "Sulfamethoxazole",
+                "Furosemide",
+                "Hydrochlorothiazide"
+            ],
+            "warning": "If you have a sulfa allergy, please confirm with your pharmacist before taking this medication."
+        },
+        {
+            "allergy": "Aspirin",
+            "avoid_drugs": [
+                "Aspirin",
+                "NSAIDs"
+            ],
+            "warning": "If you have an aspirin allergy, please confirm with your pharmacist before taking pain relievers."
+        }
+    ]
+}

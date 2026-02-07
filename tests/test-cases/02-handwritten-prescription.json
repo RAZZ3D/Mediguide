@@ -1,0 +1,52 @@
+{
+    "test_name": "Handwritten-like Prescription - Paracetamol + Azithromycin",
+    "description": "Simulated handwritten prescription with potential OCR uncertainties",
+    "input": {
+        "text": "Rx\n\nParacetamol 650mg\nTDS x 5d\n\nAzithromycin 500mg\nOD x 3d\nEmpty stomach\n\nDr. Patel"
+    },
+    "expected_output": {
+        "medications": [
+            {
+                "name": "Paracetamol",
+                "strength": "650mg",
+                "form": "Tablet",
+                "frequency": "TDS",
+                "frequency_normalized": "Three times daily",
+                "timing_buckets": {
+                    "morning": 1,
+                    "afternoon": 1,
+                    "evening": 1
+                },
+                "duration": "5 days",
+                "name_confidence": ">0.70",
+                "strength_confidence": ">0.75",
+                "frequency_confidence": ">0.65",
+                "needs_confirmation": false
+            },
+            {
+                "name": "Azithromycin",
+                "strength": "500mg",
+                "form": "Tablet",
+                "frequency": "OD",
+                "frequency_normalized": "Once daily",
+                "timing_buckets": {
+                    "morning": 1
+                },
+                "duration": "3 days",
+                "food_instruction": "Empty stomach",
+                "name_confidence": ">0.70",
+                "strength_confidence": ">0.75",
+                "frequency_confidence": ">0.65",
+                "needs_confirmation": false
+            }
+        ],
+        "overall_confidence": ">0.65",
+        "needs_confirmation": false,
+        "clarification_questions": []
+    },
+    "expected_interactions": [],
+    "expected_nudges": [
+        "Complete the full 3 days course for best results",
+        "Complete the full 5 days course for best results"
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "test_name": "Mixed Language Prescription - English + Hindi",
+    "description": "Prescription with mixed English and Hindi text",
+    "input": {
+        "text": "Rx:\n\nTab Crocin 650mg\n1-1-1 खाने के बाद\nx 7 days\n\nSyp Calpol 5ml\nTDS\nबच्चे के लिए\n\nDr. Kumar"
+    },
+    "expected_output": {
+        "medications": [
+            {
+                "name": "Crocin",
+                "strength": "650mg",
+                "form": "Tablet",
+                "frequency": "TDS",
+                "frequency_normalized": "Three times daily",
+                "timing_buckets": {
+                    "morning": 1,
+                    "afternoon": 1,
+                    "evening": 1
+                },
+                "duration": "7 days",
+                "food_instruction": "After meals",
+                "name_confidence": ">0.70",
+                "strength_confidence": ">0.75",
+                "frequency_confidence": ">0.70",
+                "needs_confirmation": false
+            },
+            {
+                "name": "Calpol",
+                "strength": "5ml",
+                "form": "Syrup",
+                "frequency": "TDS",
+                "frequency_normalized": "Three times daily",
+                "timing_buckets": {
+                    "morning": 1,
+                    "afternoon": 1,
+                    "evening": 1
+                },
+                "duration": "As directed",
+                "special_instructions": "For child",
+                "name_confidence": ">0.70",
+                "strength_confidence": ">0.75",
+                "frequency_confidence": ">0.65",
+                "needs_confirmation": false
+            }
+        ],
+        "extracted_language": "mixed (en + hi)",
+        "overall_confidence": ">0.70",
+        "needs_confirmation": false,
+        "clarification_questions": []
+    },
+    "expected_interactions": [],
+    "expected_nudges": [
+        "After breakfast, take your Crocin 650mg",
+        "Complete the full 7 days course for best results"
+    ]
+}

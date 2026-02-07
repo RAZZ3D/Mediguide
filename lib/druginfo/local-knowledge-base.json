@@ -1,0 +1,356 @@
+{
+    "drugs": [
+        {
+            "name": "Paracetamol",
+            "generic_name": "Acetaminophen",
+            "brand_names": [
+                "Crocin",
+                "Calpol",
+                "Dolo"
+            ],
+            "indications": [
+                "Pain relief",
+                "Fever reduction",
+                "Headache",
+                "Body aches"
+            ],
+            "mechanism_of_action": "Reduces pain and fever by acting on the brain's temperature regulation center",
+            "common_side_effects": [
+                "Nausea (rare)",
+                "Allergic reactions (rare)",
+                "Skin rash (rare)"
+            ],
+            "serious_side_effects": [
+                "Liver damage (with overdose)"
+            ],
+            "precautions": [
+                "Do not exceed 4000mg per day",
+                "Avoid with liver disease",
+                "Limit alcohol consumption",
+                "Space doses at least 4-6 hours apart"
+            ],
+            "dosage_forms": [
+                "Tablet",
+                "Syrup",
+                "IV",
+                "Suppository"
+            ],
+            "typical_dosage_range": "500-1000mg every 4-6 hours",
+            "max_daily_dose": "4000mg"
+        },
+        {
+            "name": "Amlodipine",
+            "generic_name": "Amlodipine",
+            "brand_names": [
+                "Amlong",
+                "Amlodac",
+                "Stamlo"
+            ],
+            "indications": [
+                "High blood pressure",
+                "Angina (chest pain)",
+                "Coronary artery disease"
+            ],
+            "mechanism_of_action": "Relaxes blood vessels to improve blood flow and reduce blood pressure",
+            "common_side_effects": [
+                "Swelling of ankles/feet",
+                "Dizziness",
+                "Flushing",
+                "Fatigue"
+            ],
+            "precautions": [
+                "Take at the same time each day",
+                "Avoid grapefruit juice",
+                "Rise slowly from sitting/lying position",
+                "Monitor blood pressure regularly"
+            ],
+            "dosage_forms": [
+                "Tablet"
+            ],
+            "typical_dosage_range": "2.5-10mg once daily",
+            "max_daily_dose": "10mg"
+        },
+        {
+            "name": "Metformin",
+            "generic_name": "Metformin",
+            "brand_names": [
+                "Glycomet",
+                "Glucophage",
+                "Obimet"
+            ],
+            "indications": [
+                "Type 2 diabetes",
+                "Polycystic ovary syndrome (PCOS)"
+            ],
+            "mechanism_of_action": "Reduces glucose production in liver and improves insulin sensitivity",
+            "common_side_effects": [
+                "Nausea",
+                "Diarrhea",
+                "Stomach upset",
+                "Metallic taste"
+            ],
+            "serious_side_effects": [
+                "Lactic acidosis (rare)",
+                "Vitamin B12 deficiency"
+            ],
+            "precautions": [
+                "Take with meals to reduce stomach upset",
+                "Avoid excessive alcohol",
+                "Stay hydrated",
+                "Inform doctor before imaging tests with contrast dye",
+                "Monitor kidney function regularly"
+            ],
+            "dosage_forms": [
+                "Tablet",
+                "Extended-release tablet"
+            ],
+            "typical_dosage_range": "500-2000mg daily in divided doses",
+            "max_daily_dose": "2550mg"
+        },
+        {
+            "name": "Azithromycin",
+            "generic_name": "Azithromycin",
+            "brand_names": [
+                "Azithral",
+                "Zithromax",
+                "Azee"
+            ],
+            "indications": [
+                "Bacterial infections",
+                "Respiratory infections",
+                "Skin infections",
+                "Ear infections"
+            ],
+            "mechanism_of_action": "Antibiotic that stops bacterial growth",
+            "common_side_effects": [
+                "Nausea",
+                "Diarrhea",
+                "Stomach pain",
+                "Headache"
+            ],
+            "precautions": [
+                "Complete full course even if feeling better",
+                "Take on empty stomach (1 hour before or 2 hours after meals)",
+                "Avoid antacids within 2 hours",
+                "May cause sun sensitivity"
+            ],
+            "dosage_forms": [
+                "Tablet",
+                "Suspension"
+            ],
+            "typical_dosage_range": "500mg once daily for 3-5 days",
+            "max_daily_dose": "500mg"
+        },
+        {
+            "name": "Omeprazole",
+            "generic_name": "Omeprazole",
+            "brand_names": [
+                "Omez",
+                "Prilosec",
+                "Omepral"
+            ],
+            "indications": [
+                "Acid reflux",
+                "GERD",
+                "Stomach ulcers",
+                "Heartburn"
+            ],
+            "mechanism_of_action": "Reduces stomach acid production",
+            "common_side_effects": [
+                "Headache",
+                "Nausea",
+                "Diarrhea",
+                "Stomach pain"
+            ],
+            "precautions": [
+                "Take before meals (usually breakfast)",
+                "Swallow whole, do not crush",
+                "May reduce effectiveness of clopidogrel",
+                "Long-term use may affect calcium absorption"
+            ],
+            "dosage_forms": [
+                "Capsule",
+                "Tablet"
+            ],
+            "typical_dosage_range": "20-40mg once daily",
+            "max_daily_dose": "40mg"
+        },
+        {
+            "name": "Atorvastatin",
+            "generic_name": "Atorvastatin",
+            "brand_names": [
+                "Atorva",
+                "Lipitor",
+                "Storvas"
+            ],
+            "indications": [
+                "High cholesterol",
+                "Heart disease prevention",
+                "Stroke prevention"
+            ],
+            "mechanism_of_action": "Lowers cholesterol by reducing its production in the liver",
+            "common_side_effects": [
+                "Muscle pain",
+                "Headache",
+                "Nausea",
+                "Diarrhea"
+            ],
+            "serious_side_effects": [
+                "Severe muscle pain (rhabdomyolysis)",
+                "Liver problems"
+            ],
+            "precautions": [
+                "Avoid grapefruit juice",
+                "Report unexplained muscle pain immediately",
+                "Monitor liver function",
+                "Take at the same time each day (usually evening)"
+            ],
+            "dosage_forms": [
+                "Tablet"
+            ],
+            "typical_dosage_range": "10-80mg once daily",
+            "max_daily_dose": "80mg"
+        },
+        {
+            "name": "Aspirin",
+            "generic_name": "Acetylsalicylic Acid",
+            "brand_names": [
+                "Ecosprin",
+                "Disprin"
+            ],
+            "indications": [
+                "Pain relief",
+                "Fever",
+                "Heart attack prevention",
+                "Stroke prevention",
+                "Blood clot prevention"
+            ],
+            "mechanism_of_action": "Reduces pain, fever, and prevents blood clots",
+            "common_side_effects": [
+                "Stomach upset",
+                "Heartburn",
+                "Nausea"
+            ],
+            "serious_side_effects": [
+                "Bleeding",
+                "Stomach ulcers",
+                "Allergic reactions"
+            ],
+            "precautions": [
+                "Take with food or milk",
+                "Avoid if allergic to NSAIDs",
+                "Inform doctor before surgery",
+                "May increase bleeding risk"
+            ],
+            "dosage_forms": [
+                "Tablet",
+                "Dispersible tablet"
+            ],
+            "typical_dosage_range": "75-325mg daily (for prevention), 300-600mg (for pain)",
+            "max_daily_dose": "4000mg (for pain)"
+        },
+        {
+            "name": "Cetirizine",
+            "generic_name": "Cetirizine",
+            "brand_names": [
+                "Zyrtec",
+                "Alerid",
+                "Cetrizet"
+            ],
+            "indications": [
+                "Allergies",
+                "Hay fever",
+                "Hives",
+                "Itching"
+            ],
+            "mechanism_of_action": "Antihistamine that blocks allergic reactions",
+            "common_side_effects": [
+                "Drowsiness",
+                "Dry mouth",
+                "Fatigue",
+                "Headache"
+            ],
+            "precautions": [
+                "May cause drowsiness - avoid driving if affected",
+                "Avoid alcohol",
+                "Take in evening if causes drowsiness"
+            ],
+            "dosage_forms": [
+                "Tablet",
+                "Syrup"
+            ],
+            "typical_dosage_range": "5-10mg once daily",
+            "max_daily_dose": "10mg"
+        },
+        {
+            "name": "Pantoprazole",
+            "generic_name": "Pantoprazole",
+            "brand_names": [
+                "Pan",
+                "Pantocid",
+                "Protonix"
+            ],
+            "indications": [
+                "Acid reflux",
+                "GERD",
+                "Stomach ulcers"
+            ],
+            "mechanism_of_action": "Reduces stomach acid production",
+            "common_side_effects": [
+                "Headache",
+                "Diarrhea",
+                "Nausea",
+                "Stomach pain"
+            ],
+            "precautions": [
+                "Take before meals",
+                "Swallow whole, do not crush",
+                "May interact with clopidogrel"
+            ],
+            "dosage_forms": [
+                "Tablet"
+            ],
+            "typical_dosage_range": "20-40mg once daily",
+            "max_daily_dose": "40mg"
+        },
+        {
+            "name": "Amoxicillin",
+            "generic_name": "Amoxicillin",
+            "brand_names": [
+                "Amoxil",
+                "Mox",
+                "Novamox"
+            ],
+            "indications": [
+                "Bacterial infections",
+                "Ear infections",
+                "Throat infections",
+                "Urinary tract infections"
+            ],
+            "mechanism_of_action": "Antibiotic that kills bacteria",
+            "common_side_effects": [
+                "Nausea",
+                "Diarrhea",
+                "Rash",
+                "Stomach upset"
+            ],
+            "serious_side_effects": [
+                "Severe allergic reactions",
+                "Severe diarrhea (C. diff)"
+            ],
+            "precautions": [
+                "Complete full course",
+                "Avoid if allergic to penicillin",
+                "May reduce effectiveness of birth control pills",
+                "Take with or without food"
+            ],
+            "dosage_forms": [
+                "Capsule",
+                "Tablet",
+                "Suspension"
+            ],
+            "typical_dosage_range": "250-500mg three times daily",
+            "max_daily_dose": "3000mg"
+        }
+    ]
+}

@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "text": "Tab Metformin 500mg BD PC x 30 days\nCap Omeprazole 20mg OD AC x 14 days\nTab Aspirin 75mg OD HS x 90 days",
+    "language": "en"
+  },
+  {
+    "id": 2,
+    "text": "Amoxicillin 500mg TDS PC x 7 days\nParacetamol 650mg PRN (max 4 doses/day) x 5 days",
+    "language": "en"
+  },
+  {
+    "id": 3,
+    "text": "Atorvastatin 10mg 1-0-0 HS x 60 days\nMetoprolol 25mg 1-0-1 with meals x 30 days\nAspirin 75mg 0-0-1 PC x 90 days",
+    "language": "en"
+  },
+  {
+    "id": 4,
+    "text": "Levothyroxine 50mcg OD empty stomach (30 min AC breakfast) x 90 days\nCalcium carbonate 500mg BD with meals x 30 days",
+    "language": "en"
+  },
+  {
+    "id": 5,
+    "text": "Ciprofloxacin 500mg BD x 5 days\nLoperamide 2mg PRN after loose stool (max 8mg/day) x 3 days",
+    "language": "en"
+  },
+  {
+    "id": 6,
+    "text": "Insulin Glargine 10 units SC HS\nMetformin 1000mg 1-0-1 PC x 30 days\nGlimepiride 2mg OD AC breakfast x 30 days",
+    "language": "en"
+  },
+  {
+    "id": 7,
+    "text": "Salbutamol inhaler 2 puffs PRN for breathlessness\nMontelukast 10mg OD HS x 30 days\nFluticasone inhaler 2 puffs BD x 30 days",
+    "language": "en"
+  },
+  {
+    "id": 8,
+    "text": "Amlodipine 5mg OD morning x 60 days\nHydrochlorothiazide 12.5mg OD morning x 60 days\nLosartan 50mg OD morning x 60 days",
+    "language": "en"
+  },
+  {
+    "id": 9,
+    "text": "Sertraline 50mg OD morning with food x 30 days\nAlprazolam 0.25mg PRN for anxiety (max 2 doses/day) x 14 days",
+    "language": "en"
+  },
+  {
+    "id": 10,
+    "text": "Warfarin 5mg OD evening (adjust per INR) x 30 days\nFolic acid 5mg OD x 30 days",
+    "language": "en"
+  },
+  {
+    "id": 11,
+    "text": "Azithromycin 500mg OD x 3 days\nCetirizine 10mg OD HS x 7 days\nNasal saline spray TDS x 7 days",
+    "language": "en"
+  },
+  {
+    "id": 12,
+    "text": "Pantoprazole 40mg OD AC breakfast x 30 days\nDomperidone 10mg TDS AC x 14 days\nSucralfate suspension 10ml QID AC + HS x 14 days",
+    "language": "en"
+  },
+  {
+    "id": 13,
+    "text": "Prednisolone 20mg OD morning with food x 5 days (taper)\nMontelukast 10mg OD HS x 30 days",
+    "language": "en"
+  },
+  {
+    "id": 14,
+    "text": "Rosuvastatin 10mg OD HS x 90 days\nFenofibrate 145mg OD with food x 90 days\nOmega-3 1000mg OD x 90 days",
+    "language": "en"
+  },
+  {
+    "id": 15,
+    "text": "Gabapentin 300mg 1-0-1 x 30 days\nAmitriptyline 25mg OD HS x 30 days\nMethylcobalamin 1500mcg OD x 30 days",
+    "language": "en"
+  },
+  {
+    "id": 16,
+    "text": "Doxycycline 100mg BD PC x 7 days\nIbuprofen 400mg TDS PC x 5 days\nRanitidine 150mg BD x 7 days",
+    "language": "en"
+  },
+  {
+    "id": 17,
+    "text": "Clopidogrel 75mg OD morning x 90 days\nAspirin 75mg OD morning x 90 days\nAtorvastatin 40mg OD HS x 90 days",
+    "language": "en"
+  },
+  {
+    "id": 18,
+    "text": "Furosemide 40mg OD morning x 30 days\nSpironolactone 25mg OD morning x 30 days\nPotassium chloride 600mg BD with meals x 30 days",
+    "language": "en"
+  },
+  {
+    "id": 19,
+    "text": "Vitamin D3 60000 IU weekly x 8 weeks\nCalcium 500mg BD with meals x 60 days\nAlendronate 70mg weekly empty stomach x 12 weeks",
+    "language": "en"
+  },
+  {
+    "id": 20,
+    "text": "Moxifloxacin eye drops 1 drop QID x 7 days\nCarboxymethylcellulose eye drops 1 drop TDS x 14 days\nDiclofenac eye drops 1 drop BD x 5 days",
+    "language": "en"
+  }
+]
